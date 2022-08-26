@@ -7,9 +7,9 @@ The conditions of the flow is:
 
 $M=6$
 
-$T=63.3K$
+$$T=63.3K$$
 
-$Re=25.59\times10^6/m$
+$$Re=25.59\times10^6/m$$
 
 Feel free to ask any question.
 
