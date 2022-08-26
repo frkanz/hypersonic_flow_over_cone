@@ -5,7 +5,7 @@ The grid used in this study is shared in GitHub along with the density, velocity
 
 The conditions of the flow is:
 
-$M=6$
+$$M=6$$
 
 $$T=63.3K$$
 
