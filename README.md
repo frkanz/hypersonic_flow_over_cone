@@ -5,6 +5,11 @@ The grid used in this study is shared in GitHub along with the density, velocity
 
 ![alt text](https://github.com/frkanz/hypersonic_flow_over_cone/blob/main/Density_Nose.png?raw=true)
 
+<p align="center">
+  <img src="Density_Nose.png" width="350" title="hover text">
+  <img src="Density_Nose.png" width="350" alt="accessibility text">
+</p>
+
 The conditions of the flow is:
 
 $$M=6$$
