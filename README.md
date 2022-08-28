@@ -19,7 +19,7 @@ The freestream Mach number and temperature values are:
 
 $$M=6$$
 
-$$T=63.3K$$,
+$$T=63.3K,$$
 
 where freestream Reynolds number per meter is:
 
