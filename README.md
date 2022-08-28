@@ -11,8 +11,8 @@ The grid used in this study is shared in GitHub along with the density, velocity
 The grid used in the domain is:
 
 <p align="center">
-  <img src="Grid_Nose.png" width="450" title="hover text">
-  <img src="Grid_Full.png" width="450" alt="accessibility text">
+  <img src="Mesh_Nose.png" width="450" title="hover text">
+  <img src="Mesh_Full.png" width="450" alt="accessibility text">
 </p>
 
 The conditions of the flow is:
