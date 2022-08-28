@@ -15,11 +15,13 @@ The grid used in the domain is:
   <img src="Mesh_Full.png" width="450" alt="accessibility text">
 </p>
 
-The conditions of the flow is:
+The freestream Mach number and temperature values are:
 
 $$M=6$$
 
-$$T=63.3K$$
+$$T=63.3K$$,
+
+where freestream Reynolds number per meter is:
 
 $$Re=25.59\times10^6/m$$
 
